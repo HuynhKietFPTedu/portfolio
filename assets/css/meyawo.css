@@ -10653,6 +10653,12 @@ button.bg-dark:focus {
   }
 }
 
+.text-normal{
+  font-size: 14px !important;
+  font-weight: normal !important;
+  color: #050506 !important;
+}
+
 .text-monospace {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
 }
